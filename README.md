@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi there 👋<br>I'm Diëgo, a college student studying Software Development.<br><br>🔭 I’m currently working on small math/physics based projects in RayLib, using C++<br>🌱 I’m currently learning mathematics and C++<br>📫 How to reach me: ds.bodewes@gmail.com
-
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
